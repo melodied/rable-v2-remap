@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: rizalfr
-      revision: rable_v2
+      revision: core/zephyr-v3.5
       import: app/west.yml
   self:
     path: config
